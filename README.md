@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Software engineer interested in AI engineering, LLM applications, and backend systems. I enjoy turning ideas into practical, working software — from AI-powered developer tools to applications backed by databases and cloud infrastructure.<br><br>Building AI-powered tools and backend applications.<br><br>Exploring LLMs, Retrieval-Augmented Generation (RAG), vector databases, and AI integration.<br><br>Interested in developer productivity, automated code analysis, and software security.<br><br>Always learning by building, experimenting, and solving real engineering problems.<br>
 
 
